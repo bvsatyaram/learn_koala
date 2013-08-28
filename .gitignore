@@ -1,0 +1,14 @@
+.DS_Store
+.project
+*.tmproj
+.bundle
+db/*.sqlite3
+log/
+chromedriver.log
+tmp/
+nbproject
+public/system/
+public/uploads/
+.sass-cache/
+.ruby-gemset
+.ruby-version
